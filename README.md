@@ -1,2 +1,21 @@
-# FATEC-JCR-DSM-BDR-2026-1-Ricardo-Ladeira
-Repositório das aulas de Banco de Dados Relacionais - 2° semestre de Desenvolvimento de Software Multiplataforma 
+Portfólio – Banco de Dados Relacional – 2026/1
+👤 Aluno
+
+    Nome: Ricardo Ladeira
+    LinkedIn: não possuo.
+    GitHub: https://github.com/rladeiraFatec/
+
+📁 Estrutura
+
+    P1
+    P2
+    Requisitos-ABP
+    Reflexoes
+
+📌 Projeto ABP
+
+Descrição do problema escolhido.
+🧠 Aprendizados
+
+Registro reflexivo sobre evolução no semestre.
+
