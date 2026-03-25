@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 2SDM – Banco de Dados Relacional – 2026/1
 
 Disciplina do 2º semestre do curso de Desenvolvimento de Software Multiplataforma (DSM) – FATEC JCR.
@@ -18,3 +19,27 @@ As atividades avaliativas deverão ser publicadas no repositório individual do 
 
 ## 👩‍🏫 Professora
 Lucineide N. Pimenta
+=======
+Portfólio – Banco de Dados Relacional – 2026/1
+
+👤 Aluno
+
+    Nome: Ricardo Ladeira
+    LinkedIn: não possuo.
+    GitHub: https://github.com/rladeiraFatec/
+
+📁 Estrutura
+
+    P1
+    P2
+    Requisitos-ABP
+    Reflexoes
+
+📌 Projeto ABP
+
+Descrição do problema escolhido.
+🧠 Aprendizados
+
+Registro reflexivo sobre evolução no semestre.
+
+>>>>>>> f64d3375d54f5fae81441250833d70f5a07e741c
