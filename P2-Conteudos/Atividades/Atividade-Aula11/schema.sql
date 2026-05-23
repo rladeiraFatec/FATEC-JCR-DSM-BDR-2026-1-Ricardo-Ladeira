@@ -1,5 +1,5 @@
 -- ===================
--- INÍCIO ATIVIDADE 10
+-- INÍCIO ATIVIDADE 11
 -- ===================
 -- PREPARAÇÃO
 -- Alterar tabela Livro
@@ -188,3 +188,6 @@ WHERE
 ORDER BY
     a.nome,
     l.num_paginas DESC;
+-- ====================
+-- TÉRMINO ATIVIDADE 11
+-- ====================
